@@ -1,0 +1,4 @@
+echo "# haseeb-repo" >> README.md
+# Example: ignore common files
+echo "fake_modules/" >> .gitignore
+echo "*.log" >> .gitignore
