@@ -1,1 +1,5 @@
-echo "wrong commit" >> haseeb.txt
+<<<<<<< HEAD
+echo "This is a testing file" >haseeb.txt
+=======
+echo "This is a testing file" > haseeb.txt
+>>>>>>> 4f054ea (Edited haseeb.txt in haseeb branch)
